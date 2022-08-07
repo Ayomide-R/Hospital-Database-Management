@@ -1,5 +1,5 @@
-#Tushar Borole
-#Python 2.7
+#Ayomide-R
+#Python >
 
 from flask_restful import Resource, Api, request
 from package.model import conn
