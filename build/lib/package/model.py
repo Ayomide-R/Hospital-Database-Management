@@ -1,5 +1,5 @@
-#Tushar Borole
-#Python 2.7
+#Ayomide-R
+#Python 3>
 
 import sqlite3
 import json
