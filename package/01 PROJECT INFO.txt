@@ -1,5 +1,3 @@
-**Log on to codeastro.com for more projects!***
+**Developed by #Ayomide-R**
 
-**Developed by Tushar Borole**
-
-**Recommended Python Version 2.7, 3.x**
+**Recommended Python Version 3.x**
